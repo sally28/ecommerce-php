@@ -3,7 +3,10 @@
     <title>My Online Shop</title>
   </head>
   <body>
-  hello world
+   <div class="main_wrapper">
+    div
+   
+   </div>
   
   	
   </body>
